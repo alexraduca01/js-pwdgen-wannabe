@@ -11,6 +11,4 @@ body {
     left: 50%;
     transform: translate(-50%, -50%);
 }
-.dropdown-menu {
-    /* transform: translate(-75px, 80px)!important; */
-}
+
